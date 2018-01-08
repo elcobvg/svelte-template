@@ -1,13 +1,13 @@
 # svelte app
 
-This is a project template for [Svelte](https://svelte.technology) apps. It lives at https://github.com/sveltejs/template.
+This is a fork of the project template for [Svelte](https://svelte.technology) apps. It lives at https://github.com/elcobvg/svelte-template.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
 ```bash
 npm install -g degit # you only need to do this once
 
-degit sveltejs/template svelte-app
+degit elcobvg/svelte-template svelte-app
 cd svelte-app
 ```
 
@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
+Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and  the page will reload automatically.
 
 
 ## Deploying to the web
